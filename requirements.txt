@@ -1,0 +1,12 @@
+numpy
+pandas
+gensim
+tensorflow
+scikit-learn
+nltk
+imblearn
+emoji
+PySastrawi
+python-dotenv
+google-play-scraper
+
